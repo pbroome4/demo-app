@@ -4,4 +4,7 @@ public class App{
 		System.out.println("hello world!");
 		System.out.println("hello world 2!!");
 	}
+	public static void login(){
+		System.out.println("logging in");
+	}
 }
